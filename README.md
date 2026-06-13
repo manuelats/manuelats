@@ -4,7 +4,7 @@
 
 Hi! I'm Manuela Silva, a passionate neuroscience student and aspiring data analyst deeply committed to understanding the brain and biological data. I hold a **BSc in Psychology** and I'm currently pursuing my **MSc in Neuroscience** while actively building my skills in **Data Analysis in Healthcare**. 
 
-I'm driven by the fascinating intersection of neuroscience and data science, with a mission to learn how to transform complex biological data into meaningful insights that advance our understanding of the brain. 
+
 
 Currently, I'm on an exciting learning journey, combining  neuroscience  with practical data analysis skills. 🌱
 
@@ -67,4 +67,4 @@ Currently, I'm on an exciting learning journey, combining  neuroscience  with pr
 
 I'm passionate about data analysis, and I love connecting with fellow students,   and professionals in these fields. Whether you want to discuss neurobiological concepts, collaborate on projects, or share insights about data analytics in healthcare — I'm here for it!
 
-Always open to feedback, collaboration opportunities, and learning from others! 🧠📊
+
